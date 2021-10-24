@@ -5,6 +5,9 @@
 ## Core C++ 2021
 
 - [Implementing C++ Semantics in Python][corecpp2021]
+
+## NDC TechTown 2021
+
 - [Implementing C++ Semantics in Python][ndc2021]
 
 
