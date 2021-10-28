@@ -23,9 +23,10 @@ Existing Python knowledge is not required; we will cover all the relevant syntax
 - [Slides]
 - [Code]
 - [Video]
-
+- [Notes]
 
 
 
 [Slides]:slides.pdf
 [Code]:https://github.com/tmr232/cpppy
+[Notes]:../CoreCpp2021/prep-notes
