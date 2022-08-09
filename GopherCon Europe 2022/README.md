@@ -13,10 +13,10 @@ In this talk, we'll use static analysis & code generation to roll our own genera
 ## Content
 
 - [Slides]
-- Code (will be published soon!)
+- [Code]
 - [Notes]
 
 
-
 [Slides]:slides.pdf
+[Code]:https://github.com/tmr232/gengen
 [Notes]:speaker-notes.md
