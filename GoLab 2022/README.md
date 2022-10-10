@@ -17,6 +17,6 @@ In this talk, we'll use static analysis & code generation to roll our own genera
 - [Notes]
 
 
-[Slides]:slides.pdf
+[Slides]:2022-10-03-GeneratingGenerators.pdf
 [Code]:https://github.com/tmr232/gengen
 [Notes]:../GopherCon%20Europe%202022/speaker-notes.md

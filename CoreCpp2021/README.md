@@ -27,7 +27,7 @@ Existing Python knowledge is not required; we will cover all the relevant syntax
 
 
 
-[Slides]:slides.pdf
+[Slides]:2021-08-26-ImplCppSemantics.pdf
 [Code]:https://github.com/tmr232/cpppy
 [Video]:https://www.youtube.com/watch?v=U74sqQGqZzk
 [Notes]:prep-notes
